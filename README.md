@@ -1,4 +1,4 @@
-Inside this repositories contain:
+Inside this repositorie contain:
 
 - The final report of VLSI theory.
   
